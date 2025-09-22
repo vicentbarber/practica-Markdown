@@ -35,3 +35,5 @@ Aquí aprenderemos a usar títulos, listas, enlaces, imágenes y documentos adic
 
 ## Uso
 Para ver el README.md formateado, abre este repositorio en GitHub.
+![Mi imagen](./images/foto otoño.jpg)
+

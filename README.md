@@ -25,7 +25,7 @@ Aquí aprenderemos a usar títulos, listas, enlaces, imágenes y documentos adic
 - Integración con Git y GitHub
 
 ## Imagen externa con enlace
-[![Imagen de ejemplo]([https://via.placeholder.com/150](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1-1024x512.png))](https://www.ejemplo.com)
+[![Imagen de ejemplo](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1-1024x512.png)
 
 ## Imagen local (preparada)
 [Imagen local](images/imagen.jpg)

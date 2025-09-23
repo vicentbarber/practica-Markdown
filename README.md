@@ -25,10 +25,10 @@ Aquí aprenderemos a usar títulos, listas, enlaces, imágenes y documentos adic
 - Integración con Git y GitHub
 
 ## Imagen externa con enlace
-[![Imagen de ejemplo](https://via.placeholder.com/150)](https://www.ejemplo.com)
+[Imagen de ejemplo](https://via.placeholder.com/150)](https://www.ejemplo.com)
 
 ## Imagen local (preparada)
-![Imagen local](images/imagen.jpg)
+[Imagen local](images/imagen.jpg)
 
 ## Enlace a nuevo documento
 [Ir al nuevo documento](nuevo_documento.md)
